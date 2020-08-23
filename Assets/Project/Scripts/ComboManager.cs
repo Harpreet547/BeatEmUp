@@ -8,7 +8,8 @@ public class ComboManager : MonoBehaviour
     public bool canReceiveInput;
     public bool inputReceived;
 
-    private string[] lightAttackArr = new string[] { "LightAttack1L1", "LightAttack2L2", "LightAttack3L3" };
+    private PlayerComboSettings playerComboSettings;
+
     private int comboNum;
 
     private void Awake()
@@ -19,6 +20,7 @@ public class ComboManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        playerComboSettings = gameObject.GetComponent<PlayerComboSettings>();
     }
 
     // Update is called once per frame
@@ -54,7 +56,7 @@ public class ComboManager : MonoBehaviour
         {
             ComboManager.instance.inputManager();
             ComboManager.instance.inputReceived = false;
-            attackName = lightAttackArr[comboNum];
+            attackName = playerComboSettings.lightAttackArr[comboNum];
             comboNum++;
         }
         if(comboNum == 3)
@@ -71,6 +73,11 @@ public class ComboManager : MonoBehaviour
 
     public string getIdleStateName()
     {
-        return "RedIdle";
+        return playerComboSettings.idleStateName;
+    }
+
+    public void setCanDamageEnemy(bool canDamage)
+    {
+        playerComboSettings.canDamage = canDamage;
     }
 }

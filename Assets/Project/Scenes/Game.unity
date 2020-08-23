@@ -227,6 +227,7 @@ MonoBehaviour:
   horizontalSpeed: 4
   maxY: -0.74
   minY: -4.47
+  dodgeStrength: 4000
 --- !u!95 &279461162
 Animator:
   serializedVersion: 3

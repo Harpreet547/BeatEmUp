@@ -1,0 +1,5662 @@
+fileFormatVersion: 2
+guid: 6b0c03b3718534b4e985a46e0c0cbd2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3972766810935544257
+    second: redMRK2-2_0
+  - first:
+      213: -5975013872919513174
+    second: redMRK2-2_1
+  - first:
+      213: 322274135746175704
+    second: redMRK2-2_2
+  - first:
+      213: -4486544312069264284
+    second: redMRK2-2_3
+  - first:
+      213: 1005159926158139365
+    second: redMRK2-2_4
+  - first:
+      213: 5705060469338097891
+    second: redMRK2-2_5
+  - first:
+      213: 7283754855576557411
+    second: redMRK2-2_6
+  - first:
+      213: 4018997035383501635
+    second: redMRK2-2_7
+  - first:
+      213: -1573750002156149936
+    second: redMRK2-2_8
+  - first:
+      213: 6004046171353922557
+    second: redMRK2-2_9
+  - first:
+      213: 3945844714993959550
+    second: redMRK2-2_10
+  - first:
+      213: 36931381233201640
+    second: redMRK2-2_11
+  - first:
+      213: 7802564536963309807
+    second: redMRK2-2_12
+  - first:
+      213: -4335296361951648975
+    second: redMRK2-2_13
+  - first:
+      213: 7497319176226673754
+    second: redMRK2-2_14
+  - first:
+      213: -6996488784088152397
+    second: redMRK2-2_15
+  - first:
+      213: -6527488882777486713
+    second: redMRK2-2_16
+  - first:
+      213: 2818322773967615218
+    second: redMRK2-2_17
+  - first:
+      213: 3679066568521031952
+    second: redMRK2-2_18
+  - first:
+      213: 7382054476424340553
+    second: redMRK2-2_19
+  - first:
+      213: 5728967808109218702
+    second: redMRK2-2_20
+  - first:
+      213: 5607617688699560378
+    second: redMRK2-2_21
+  - first:
+      213: -703546978765007028
+    second: redMRK2-2_22
+  - first:
+      213: -2955489174966545161
+    second: redMRK2-2_23
+  - first:
+      213: 2658616491702590460
+    second: redMRK2-2_24
+  - first:
+      213: 3077064690274958897
+    second: redMRK2-2_25
+  - first:
+      213: 332955504147826476
+    second: redMRK2-2_26
+  - first:
+      213: -3887837329136637113
+    second: redMRK2-2_27
+  - first:
+      213: 8728300006390518127
+    second: redMRK2-2_28
+  - first:
+      213: 155133352795994681
+    second: redMRK2-2_29
+  - first:
+      213: -2930270186100747161
+    second: redMRK2-2_30
+  - first:
+      213: -2004507163253667562
+    second: redMRK2-2_31
+  - first:
+      213: 1200318848931850913
+    second: redMRK2-2_32
+  - first:
+      213: 6556644104064928512
+    second: redMRK2-2_33
+  - first:
+      213: 8209656140672944166
+    second: redMRK2-2_34
+  - first:
+      213: -4169669369790867183
+    second: redMRK2-2_35
+  - first:
+      213: -2893373359225886988
+    second: redMRK2-2_36
+  - first:
+      213: 714304174057351490
+    second: redMRK2-2_37
+  - first:
+      213: 1622203768169072358
+    second: redMRK2-2_38
+  - first:
+      213: 3772333220528968730
+    second: redMRK2-2_39
+  - first:
+      213: 726420484340395790
+    second: redMRK2-2_40
+  - first:
+      213: -8878562572607914192
+    second: redMRK2-2_41
+  - first:
+      213: 7200670336089183024
+    second: redMRK2-2_42
+  - first:
+      213: -7896264225084764220
+    second: redMRK2-2_43
+  - first:
+      213: -6393907601822450497
+    second: redMRK2-2_44
+  - first:
+      213: 4381993468168412057
+    second: redMRK2-2_45
+  - first:
+      213: -643494590122068340
+    second: redMRK2-2_46
+  - first:
+      213: -6732993556590200269
+    second: redMRK2-2_47
+  - first:
+      213: 8578609759266758341
+    second: redMRK2-2_48
+  - first:
+      213: 3036745346012220837
+    second: redMRK2-2_49
+  - first:
+      213: -767437273230568485
+    second: redMRK2-2_50
+  - first:
+      213: -3303198494687210744
+    second: redMRK2-2_51
+  - first:
+      213: -3849784022590448863
+    second: redMRK2-2_52
+  - first:
+      213: -313553975610031389
+    second: redMRK2-2_53
+  - first:
+      213: 6899358705774762514
+    second: redMRK2-2_54
+  - first:
+      213: -5584860501579602685
+    second: redMRK2-2_55
+  - first:
+      213: 726568797428314063
+    second: redMRK2-2_56
+  - first:
+      213: 6712094833572324172
+    second: redMRK2-2_57
+  - first:
+      213: 7772455608725994536
+    second: redMRK2-2_58
+  - first:
+      213: 6378880355914597838
+    second: redMRK2-2_59
+  - first:
+      213: -810496056000757054
+    second: redMRK2-2_60
+  - first:
+      213: -5651779409911003643
+    second: redMRK2-2_61
+  - first:
+      213: -168959667220283417
+    second: redMRK2-2_62
+  - first:
+      213: -8973083792940512848
+    second: redMRK2-2_63
+  - first:
+      213: 7779980446304731660
+    second: redMRK2-2_64
+  - first:
+      213: 4506152586525950889
+    second: redMRK2-2_65
+  - first:
+      213: 3814923170870630070
+    second: redMRK2-2_66
+  - first:
+      213: -7260048356324214855
+    second: redMRK2-2_67
+  - first:
+      213: 7545403313984169056
+    second: redMRK2-2_68
+  - first:
+      213: 3026894164623205489
+    second: redMRK2-2_69
+  - first:
+      213: -1039651546394979655
+    second: redMRK2-2_70
+  - first:
+      213: 2222239451391689415
+    second: redMRK2-2_71
+  - first:
+      213: 4202165776812653105
+    second: redMRK2-2_72
+  - first:
+      213: -4577277505050828726
+    second: redMRK2-2_73
+  - first:
+      213: 2808433309626158255
+    second: redMRK2-2_74
+  - first:
+      213: 2607392710222848664
+    second: redMRK2-2_75
+  - first:
+      213: -2308352159963159933
+    second: redMRK2-2_76
+  - first:
+      213: -3537079393880251446
+    second: redMRK2-2_77
+  - first:
+      213: 2521031679176291158
+    second: redMRK2-2_78
+  - first:
+      213: 997228429633856082
+    second: redMRK2-2_79
+  - first:
+      213: -7280742786002425367
+    second: redMRK2-2_80
+  - first:
+      213: -993232188703216070
+    second: redMRK2-2_81
+  - first:
+      213: -8068143877644897594
+    second: redMRK2-2_82
+  - first:
+      213: -6630712459737257159
+    second: redMRK2-2_83
+  - first:
+      213: 813004410513051553
+    second: redMRK2-2_84
+  - first:
+      213: 4542845524016051075
+    second: redMRK2-2_85
+  - first:
+      213: -4309278268780960514
+    second: redMRK2-2_86
+  - first:
+      213: 1753712955837055136
+    second: redMRK2-2_87
+  - first:
+      213: -1811516513014019337
+    second: redMRK2-2_88
+  - first:
+      213: 4006881508836384134
+    second: redMRK2-2_89
+  - first:
+      213: -2109538761821167774
+    second: redMRK2-2_90
+  - first:
+      213: 6229435707533366341
+    second: redMRK2-2_91
+  - first:
+      213: 8094641340467892337
+    second: redMRK2-2_92
+  - first:
+      213: 5233400705075606965
+    second: redMRK2-2_93
+  - first:
+      213: 8536119765611563619
+    second: redMRK2-2_94
+  - first:
+      213: 7331295253074552089
+    second: redMRK2-2_95
+  - first:
+      213: 1574815979540658887
+    second: redMRK2-2_96
+  - first:
+      213: -6001507587551095150
+    second: redMRK2-2_97
+  - first:
+      213: -2222999156402877410
+    second: redMRK2-2_98
+  - first:
+      213: 1351198460494857806
+    second: redMRK2-2_99
+  - first:
+      213: -5670671433759611098
+    second: redMRK2-2_100
+  - first:
+      213: -1887313367348730455
+    second: redMRK2-2_101
+  - first:
+      213: -3612648136961825306
+    second: redMRK2-2_102
+  - first:
+      213: -957280692977845582
+    second: redMRK2-2_103
+  - first:
+      213: -3031660569419331391
+    second: redMRK2-2_104
+  - first:
+      213: -569254833163480512
+    second: redMRK2-2_105
+  - first:
+      213: -2498238190490657091
+    second: redMRK2-2_106
+  - first:
+      213: -2289661823663122953
+    second: redMRK2-2_107
+  - first:
+      213: 291747982923087337
+    second: redMRK2-2_108
+  - first:
+      213: 2737130165368080696
+    second: redMRK2-2_109
+  - first:
+      213: 5100147181361991185
+    second: redMRK2-2_110
+  - first:
+      213: -2275424464907537071
+    second: redMRK2-2_111
+  - first:
+      213: 6107654793858011921
+    second: redMRK2-2_112
+  - first:
+      213: -7186840388354770481
+    second: redMRK2-2_113
+  - first:
+      213: 534854265048832629
+    second: redMRK2-2_114
+  - first:
+      213: -4916731591031974384
+    second: redMRK2-2_115
+  - first:
+      213: -1023422345589274304
+    second: redMRK2-2_116
+  - first:
+      213: 5360624759588144747
+    second: redMRK2-2_117
+  - first:
+      213: 8318937034308974849
+    second: redMRK2-2_118
+  - first:
+      213: -1614979853307636859
+    second: redMRK2-2_119
+  - first:
+      213: -4190990313659065509
+    second: redMRK2-2_120
+  - first:
+      213: 8782400990675205496
+    second: redMRK2-2_121
+  - first:
+      213: 4216899472004700595
+    second: redMRK2-2_122
+  - first:
+      213: 5021076438231099621
+    second: redMRK2-2_123
+  - first:
+      213: -4351025430038816460
+    second: redMRK2-2_124
+  - first:
+      213: -2106149561951356573
+    second: redMRK2-2_125
+  - first:
+      213: -106023935798827901
+    second: redMRK2-2_126
+  - first:
+      213: -4951753297647243474
+    second: redMRK2-2_127
+  - first:
+      213: 3378938115004464047
+    second: redMRK2-2_128
+  - first:
+      213: 5400744733863516391
+    second: redMRK2-2_129
+  - first:
+      213: -7922583559477740435
+    second: redMRK2-2_130
+  - first:
+      213: 6255883049141342235
+    second: redMRK2-2_131
+  - first:
+      213: -4835896876018611777
+    second: redMRK2-2_132
+  - first:
+      213: 4636395769882916407
+    second: redMRK2-2_133
+  - first:
+      213: 3729784336637417397
+    second: redMRK2-2_134
+  - first:
+      213: -8556531333841298
+    second: redMRK2-2_135
+  - first:
+      213: 8475679898084395598
+    second: redMRK2-2_136
+  - first:
+      213: -1562212645260140125
+    second: redMRK2-2_137
+  - first:
+      213: 8701430380967932610
+    second: redMRK2-2_138
+  - first:
+      213: -6782187650272834841
+    second: redMRK2-2_139
+  - first:
+      213: -4517474385295022022
+    second: redMRK2-2_140
+  - first:
+      213: -4262250414580639716
+    second: redMRK2-2_141
+  - first:
+      213: 7816873830589134031
+    second: redMRK2-2_142
+  - first:
+      213: -103603194996654992
+    second: redMRK2-2_143
+  - first:
+      213: -7734069113035289765
+    second: redMRK2-2_144
+  - first:
+      213: 1315410148912087625
+    second: redMRK2-2_145
+  - first:
+      213: 1774493886480338149
+    second: redMRK2-2_146
+  - first:
+      213: -7954175919491883228
+    second: redMRK2-2_147
+  - first:
+      213: 7371559374384504633
+    second: redMRK2-2_148
+  - first:
+      213: 2254329566298738449
+    second: redMRK2-2_149
+  - first:
+      213: -5834078748738751469
+    second: redMRK2-2_150
+  - first:
+      213: -8037203169399498281
+    second: redMRK2-2_151
+  - first:
+      213: -2943303558324550473
+    second: redMRK2-2_152
+  - first:
+      213: 7358033116743192226
+    second: redMRK2-2_153
+  - first:
+      213: 3071674899148016671
+    second: redMRK2-2_154
+  - first:
+      213: -3497838639262271890
+    second: redMRK2-2_155
+  - first:
+      213: 1993516746855114507
+    second: redMRK2-2_156
+  - first:
+      213: 5546137747761565316
+    second: redMRK2-2_157
+  - first:
+      213: 3055519202366375795
+    second: redMRK2-2_158
+  - first:
+      213: -6172063371367296741
+    second: redMRK2-2_159
+  - first:
+      213: 3739972290540272591
+    second: redMRK2-2_160
+  - first:
+      213: 4192964483472579876
+    second: redMRK2-2_161
+  - first:
+      213: -7708983566238905587
+    second: redMRK2-2_162
+  - first:
+      213: 6632442013574149564
+    second: redMRK2-2_163
+  - first:
+      213: -8210808386383489203
+    second: redMRK2-2_164
+  - first:
+      213: 576088851537823443
+    second: redMRK2-2_165
+  - first:
+      213: -2438998117118747347
+    second: redMRK2-2_166
+  - first:
+      213: -3615556649271248065
+    second: redMRK2-2_167
+  - first:
+      213: -6710075640432776182
+    second: redMRK2-2_168
+  - first:
+      213: -8820900910956940059
+    second: redMRK2-2_169
+  - first:
+      213: 1870821751580569434
+    second: redMRK2-2_170
+  - first:
+      213: -3151591716559793412
+    second: redMRK2-2_171
+  - first:
+      213: 8954336718932500856
+    second: redMRK2-2_172
+  - first:
+      213: 9163296677307083415
+    second: redMRK2-2_173
+  - first:
+      213: -6753562272237115221
+    second: redMRK2-2_174
+  - first:
+      213: 5811629952175884590
+    second: redMRK2-2_175
+  - first:
+      213: 6901885614089475492
+    second: redMRK2-2_176
+  - first:
+      213: 734278568272754651
+    second: redMRK2-2_177
+  - first:
+      213: 5314930680247691972
+    second: redMRK2-2_178
+  - first:
+      213: -7616974137705533881
+    second: redMRK2-2_179
+  - first:
+      213: 4974515918791262089
+    second: redMRK2-2_180
+  - first:
+      213: -6317452488645982636
+    second: redMRK2-2_181
+  - first:
+      213: -7654537349966488068
+    second: redMRK2-2_182
+  - first:
+      213: -4447318921677080089
+    second: redMRK2-2_183
+  - first:
+      213: -9002092742696463243
+    second: redMRK2-2_184
+  - first:
+      213: -704644360981458254
+    second: redMRK2-2_185
+  - first:
+      213: -8935446274179721810
+    second: redMRK2-2_186
+  - first:
+      213: 3847926329802524425
+    second: redMRK2-2_187
+  - first:
+      213: -3438177060337537026
+    second: redMRK2-2_188
+  - first:
+      213: 7027101991895439602
+    second: redMRK2-2_189
+  - first:
+      213: 7443678999133253554
+    second: redMRK2-2_190
+  - first:
+      213: 3315885201854722640
+    second: redMRK2-2_191
+  - first:
+      213: 2060690081912386217
+    second: redMRK2-2_192
+  - first:
+      213: 3701782826917917687
+    second: redMRK2-2_193
+  - first:
+      213: 7604057056543553443
+    second: redMRK2-2_194
+  - first:
+      213: 7597967246809424233
+    second: redMRK2-2_195
+  - first:
+      213: -6778999799926825466
+    second: redMRK2-2_196
+  - first:
+      213: -6991459336492221866
+    second: redMRK2-2_197
+  - first:
+      213: 9141205940399521260
+    second: redMRK2-2_198
+  - first:
+      213: -3479761728871377561
+    second: redMRK2-2_199
+  - first:
+      213: 3735690009330262180
+    second: redMRK2-2_200
+  - first:
+      213: 5815101629833671247
+    second: redMRK2-2_201
+  - first:
+      213: -6753229005449174251
+    second: redMRK2-2_202
+  - first:
+      213: 729094759357751623
+    second: redMRK2-2_203
+  - first:
+      213: -2475624276369864565
+    second: redMRK2-2_204
+  - first:
+      213: 2318874318599294733
+    second: redMRK2-2_205
+  - first:
+      213: -5419768321604505301
+    second: redMRK2-2_206
+  - first:
+      213: -1192077491569191575
+    second: redMRK2-2_207
+  - first:
+      213: -8110439410990081704
+    second: redMRK2-2_208
+  - first:
+      213: -1798381010323049763
+    second: redMRK2-2_209
+  - first:
+      213: -6096235857953968709
+    second: redMRK2-2_210
+  - first:
+      213: 7740186705401662913
+    second: redMRK2-2_211
+  - first:
+      213: -4793742015509784842
+    second: redMRK2-2_212
+  - first:
+      213: -3347504517868009121
+    second: redMRK2-2_213
+  - first:
+      213: -1051937084319195114
+    second: redMRK2-2_214
+  - first:
+      213: 2407490558993803350
+    second: redMRK2-2_215
+  - first:
+      213: -6018319538503079983
+    second: redMRK2-2_216
+  - first:
+      213: 1355040969699857540
+    second: redMRK2-2_217
+  - first:
+      213: 2593959378895007683
+    second: redMRK2-2_218
+  - first:
+      213: -4026341787360131289
+    second: redMRK2-2_219
+  - first:
+      213: -2557626878870480836
+    second: redMRK2-2_220
+  - first:
+      213: -7211519715723203438
+    second: redMRK2-2_221
+  - first:
+      213: -5795873854354902353
+    second: redMRK2-2_222
+  - first:
+      213: -5498447019440599745
+    second: redMRK2-2_223
+  - first:
+      213: 8457948792377292989
+    second: redMRK2-2_224
+  - first:
+      213: -7232577378275037539
+    second: redMRK2-2_225
+  - first:
+      213: -6845623720845008923
+    second: redMRK2-2_226
+  - first:
+      213: 7146089776671618172
+    second: redMRK2-2_227
+  - first:
+      213: -5263544073460047059
+    second: redMRK2-2_228
+  - first:
+      213: 5554000106187286661
+    second: redMRK2-2_229
+  - first:
+      213: 6802256383999892170
+    second: redMRK2-2_230
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redMRK2-2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3386
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9464dad5a122730800000000000000
+      internalID: 3972766810935544257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3386
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f9902a8c741da0800000000000000
+      internalID: -5975013872919513174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3386
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d262757e92f87400800000000000000
+      internalID: 322274135746175704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3386
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cef0a08b79cb1c0800000000000000
+      internalID: -4486544312069264284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3386
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1d1590ab03fd00800000000000000
+      internalID: 1005159926158139365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3386
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8450925427c2f40800000000000000
+      internalID: 5705060469338097891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3386
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367daad3378151560800000000000000
+      internalID: 7283754855576557411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3384
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b167928856c730800000000000000
+      internalID: 4018997035383501635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3271
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053663c06bae82ae0800000000000000
+      internalID: -1573750002156149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3271
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb389a9e28a25350800000000000000
+      internalID: 6004046171353922557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3271
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e724110ccd472c630800000000000000
+      internalID: 3945844714993959550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3271
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1387345e4338000800000000000000
+      internalID: 36931381233201640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3271
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe022ca4b17484c60800000000000000
+      internalID: 7802564536963309807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3271
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13324dd9deee5d3c0800000000000000
+      internalID: -4335296361951648975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3271
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5417ba7114db0860800000000000000
+      internalID: 7497319176226673754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3160
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6cb65158a77ee90800000000000000
+      internalID: -6996488784088152397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3160
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a8cbaf173b965a0800000000000000
+      internalID: -6527488882777486713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3160
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4bbbc71a1bc1720800000000000000
+      internalID: 2818322773967615218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3162
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01126b13d8bae0330800000000000000
+      internalID: 3679066568521031952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3162
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944eadb3f63527660800000000000000
+      internalID: 7382054476424340553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3162
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8ffb3ed1618f40800000000000000
+      internalID: 5728967808109218702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3051
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16223d39242dd40800000000000000
+      internalID: 5607617688699560378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3053
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4799e710cf7c36f0800000000000000
+      internalID: -703546978765007028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3051
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45b94114efbf6d0800000000000000
+      internalID: -2955489174966545161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3051
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb9dedfc9d45e420800000000000000
+      internalID: 2658616491702590460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3051
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e7cb6680ee3ba20800000000000000
+      internalID: 3077064690274958897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3051
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270eb65445ee9400800000000000000
+      internalID: 332955504147826476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2944
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bae4c3c80ab0ac0800000000000000
+      internalID: -3887837329136637113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2923
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6152fd7c96212970800000000000000
+      internalID: 8728300006390518127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2942
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a783266f4272200800000000000000
+      internalID: 155133352795994681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2959
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7641c8d7ac69557d0800000000000000
+      internalID: -2930270186100747161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2959
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190a88fa5f8e24e0800000000000000
+      internalID: -2004507163253667562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2942
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aae9cf22a368a010800000000000000
+      internalID: 1200318848931850913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2923
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0375f211edfa50800000000000000
+      internalID: 6556644104064928512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2824
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284ae863ce8ee170800000000000000
+      internalID: 8209656140672944166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2824
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d9cecccb5226c0800000000000000
+      internalID: -4169669369790867183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2807
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f623c0724ca8d7d0800000000000000
+      internalID: -2893373359225886988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2823
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249644c9cd7b9e900800000000000000
+      internalID: 714304174057351490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2847
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6840b7bb9338610800000000000000
+      internalID: 1622203768169072358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2831
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d800d3150a5430800000000000000
+      internalID: 3772333220528968730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2835
+        width: 117
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2daee493c41a00800000000000000
+      internalID: 726420484340395790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2690
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f70af716209c480800000000000000
+      internalID: -8878562572607914192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2695
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d947158bede360800000000000000
+      internalID: 7200670336089183024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2684
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf82330685da6290800000000000000
+      internalID: -7896264225084764220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2698
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf3ba99e64447a0800000000000000
+      internalID: -6393907601822450497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2698
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b924ea7d7ffcc30800000000000000
+      internalID: 4381993468168412057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2698
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8673e46419d117f0800000000000000
+      internalID: -643494590122068340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_47
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2698
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a7270880a9f82a0800000000000000
+      internalID: -6732993556590200269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2575
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5bc7ef185d0770800000000000000
+      internalID: 8578609759266758341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2575
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad01668dcfa42a20800000000000000
+      internalID: 3036745346012220837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2575
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd392b5bdd38955f0800000000000000
+      internalID: -767437273230568485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2577
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803509d587ea822d0800000000000000
+      internalID: -3303198494687210744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2577
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b958714d1d29ac0800000000000000
+      internalID: -3849784022590448863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_53
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2577
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e24ad9025806abf0800000000000000
+      internalID: -313553975610031389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2461
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a14b340327fbf50800000000000000
+      internalID: 6899358705774762514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2461
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ec33b6f69e72b0800000000000000
+      internalID: -5584860501579602685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2461
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe893c87a451a00800000000000000
+      internalID: 726568797428314063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2462
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4320dd50b6262d50800000000000000
+      internalID: 6712094833572324172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2462
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cfa96223f4ddb60800000000000000
+      internalID: 7772455608725994536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_59
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2461
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c10f03e5568850800000000000000
+      internalID: 6378880355914597838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_60
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2461
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2483a912a80c4f0800000000000000
+      internalID: -810496056000757054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2350
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50643633298d091b0800000000000000
+      internalID: -5651779409911003643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2352
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef77fde31cb7adf0800000000000000
+      internalID: -168959667220283417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2350
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b947fde4d3397380800000000000000
+      internalID: -8973083792940512848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2350
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c028a7deefa08fb60800000000000000
+      internalID: 7779980446304731660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2350
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3469f17e1198e30800000000000000
+      internalID: 4506152586525950889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_66
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2348
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6962d596451f430800000000000000
+      internalID: 3814923170870630070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2234
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f22d3c702f3b90800000000000000
+      internalID: -7260048356324214855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2236
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e4193658a6b860800000000000000
+      internalID: 7545403313984169056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2234
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a11f9430b10a20800000000000000
+      internalID: 3026894164623205489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_70
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2256
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b211f64d6a6291f0800000000000000
+      internalID: -1039651546394979655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_71
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2255
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28f02d10bf6de10800000000000000
+      internalID: 2222239451391689415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2255
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab83e8287115a30800000000000000
+      internalID: 4202165776812653105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2139
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a402f015c5e3a70c0800000000000000
+      internalID: -4577277505050828726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2135
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac44a3273f89f620800000000000000
+      internalID: 2808433309626158255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2137
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a6cafad15f2420800000000000000
+      internalID: 2607392710222848664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2135
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e3e0d0f517ffd0800000000000000
+      internalID: -2308352159963159933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2149
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e9611805c9eec0800000000000000
+      internalID: -3537079393880251446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_78
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2144
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6533fc884f08cf220800000000000000
+      internalID: 2521031679176291158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_79
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2144
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2522f3429fdd6dd00800000000000000
+      internalID: 997228429633856082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2043
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9665bd20b95fa90800000000000000
+      internalID: -7280742786002425367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_81
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2044
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6cd436945732f0800000000000000
+      internalID: -993232188703216070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_82
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2046
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2bb30e3e1380090800000000000000
+      internalID: -8068143877644897594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_83
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2045
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93baa9d162afaf3a0800000000000000
+      internalID: -6630712459737257159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2046
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc471343f584b00800000000000000
+      internalID: 813004410513051553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_85
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2044
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38333706fed6b0f30800000000000000
+      internalID: 4542845524016051075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2044
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4200ffe3e5234c0800000000000000
+      internalID: -4309278268780960514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1912
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a00baa44a0765810800000000000000
+      internalID: 1753712955837055136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1913
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8b0944533cd6e0800000000000000
+      internalID: -1811516513014019337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1915
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d164fb08d4b9730800000000000000
+      internalID: 4006881508836384134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_90
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1913
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5bb54ca969b2e0800000000000000
+      internalID: -2109538761821167774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_91
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1913
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54419a265c6637650800000000000000
+      internalID: 6229435707533366341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_92
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1913
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d7c27961f55070800000000000000
+      internalID: 8094641340467892337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_93
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1913
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57f49a636c0a840800000000000000
+      internalID: 5233400705075606965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1804
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac77553b3667670800000000000000
+      internalID: 8536119765611563619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1804
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152407903efdb560800000000000000
+      internalID: 7331295253074552089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_96
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1804
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca31272acedad510800000000000000
+      internalID: 1574815979540658887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1804
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296943f75ac56bca0800000000000000
+      internalID: -6001507587551095150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1804
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c0d929b025621e0800000000000000
+      internalID: -2222999156402877410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_99
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1700
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c9d247db60c210800000000000000
+      internalID: 1351198460494857806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_100
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1700
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627adc0206abd41b0800000000000000
+      internalID: -5670671433759611098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_101
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1700
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a52557ed7aeec5e0800000000000000
+      internalID: -1887313367348730455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_102
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1700
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e9e9f8ab4dddc0800000000000000
+      internalID: -3612648136961825306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1700
+        width: 121
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba37b8184e07b2f0800000000000000
+      internalID: -957280692977845582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c33846c06de5d0800000000000000
+      internalID: -3031660569419331391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_105
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1591
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042dd9aceb99918f0800000000000000
+      internalID: -569254833163480512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_106
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1589
+        width: 121
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5d7b1a99745dd0800000000000000
+      internalID: -2498238190490657091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_107
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1589
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f559c8d3bc7930e0800000000000000
+      internalID: -2289661823663122953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1589
+        width: 148
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3116ae3f7c0400800000000000000
+      internalID: 291747982923087337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1461
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83945ca226d3cf520800000000000000
+      internalID: 2737130165368080696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1480
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e8a47f6dc57c640800000000000000
+      internalID: 5100147181361991185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1494
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155f3ff31811c60e0800000000000000
+      internalID: -2275424464907537071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1468
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135e9edcafb2c450800000000000000
+      internalID: 6107654793858011921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1465
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9feaa8eb6334c90800000000000000
+      internalID: -7186840388354770481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_114
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1466
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a96dace1f2c6700800000000000000
+      internalID: 534854265048832629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1333
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016199cfaa244cbb0800000000000000
+      internalID: -4916731591031974384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_116
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1332
+        width: 58
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04944fb8cc21cc1f0800000000000000
+      internalID: -1023422345589274304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_117
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1332
+        width: 57
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664a6921d3c46a40800000000000000
+      internalID: 5360624759588144747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1333
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f3d6382dc27370800000000000000
+      internalID: 8318937034308974849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_119
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1338
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839f2441607699e0800000000000000
+      internalID: -1614979853307636859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_120
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1328
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9f39b38c96d5c0800000000000000
+      internalID: -4190990313659065509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_121
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1328
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dfb3c7b2b51e970800000000000000
+      internalID: 8782400990675205496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_122
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1326
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95f5a4abf658a30800000000000000
+      internalID: 4216899472004700595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1188
+        width: 60
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e829d2fa627ea540800000000000000
+      internalID: 5021076438231099621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_124
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1188
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43958d19c6d0e93c0800000000000000
+      internalID: -4351025430038816460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_125
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1188
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3697b0cd12475c2e0800000000000000
+      internalID: -2106149561951356573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1188
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384a509cac3578ef0800000000000000
+      internalID: -106023935798827901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1188
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fed5e7c96d74bb0800000000000000
+      internalID: -4951753297647243474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_128
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1192
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7ede205664ee20800000000000000
+      internalID: 3378938115004464047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_129
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1190
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81f7898bc43fa40800000000000000
+      internalID: 5400744733863516391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_130
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1086
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cbaf17a345d0290800000000000000
+      internalID: -7922583559477740435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_131
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1086
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101574fc7c51d650800000000000000
+      internalID: 6255883049141342235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1088
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94d76b96173ecb0800000000000000
+      internalID: -4835896876018611777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_133
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1088
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736bef55369c75040800000000000000
+      internalID: 4636395769882916407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_134
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1086
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d61ac71bd2c330800000000000000
+      internalID: 3729784336637417397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_135
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1088
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e365d41e991eff0800000000000000
+      internalID: -8556531333841298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_136
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 975
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a4d3316f9af9570800000000000000
+      internalID: 8475679898084395598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_137
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 973
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a165a740e7e15ae0800000000000000
+      internalID: -1562212645260140125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_138
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 973
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2b26f44d0b1c870800000000000000
+      internalID: 8701430380967932610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_139
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 976
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea42710444d0e1a0800000000000000
+      internalID: -6782187650272834841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_140
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 977
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38609e2bf4be41c0800000000000000
+      internalID: -4517474385295022022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_141
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 989
+        width: 125
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d82f84d179d4c0800000000000000
+      internalID: -4262250414580639716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_142
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 873
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ff46555d1b7c60800000000000000
+      internalID: 7816873830589134031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_143
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 885
+        width: 125
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf0ac617def8ef0800000000000000
+      internalID: -103603194996654992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_144
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 866
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b06395e111ba490800000000000000
+      internalID: -7734069113035289765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_145
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 868
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94249d3af86414210800000000000000
+      internalID: 1315410148912087625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_146
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 881
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec43cfb9c440a810800000000000000
+      internalID: 1774493886480338149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_147
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 868
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f58bde4271d9190800000000000000
+      internalID: -7954175919491883228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_148
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 755
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f93eed13a0d4660800000000000000
+      internalID: 7371559374384504633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_149
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 779
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f85edebccf84f10800000000000000
+      internalID: 2254329566298738449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_150
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 757
+        width: 118
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31475cdc940390fa0800000000000000
+      internalID: -5834078748738751469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_151
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 740
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d99c44ec4e167090800000000000000
+      internalID: -8037203169399498281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_152
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 773
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40ceb02094727d0800000000000000
+      internalID: -2943303558324550473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 644
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec909922cfc1660800000000000000
+      internalID: 7358033116743192226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 637
+        width: 127
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c833ddb08c0aa20800000000000000
+      internalID: 3071674899148016671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_155
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 637
+        width: 136
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f2293a4e257fc0800000000000000
+      internalID: -3497838639262271890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_156
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 636
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07671e4be46aab10800000000000000
+      internalID: 1993516746855114507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_157
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 636
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e86ba95e6d7fc40800000000000000
+      internalID: 5546137747761565316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ce659682676a20800000000000000
+      internalID: 3055519202366375795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_159
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 513
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d372901d685aa0800000000000000
+      internalID: -6172063371367296741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_160
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 513
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf477abfc07e330800000000000000
+      internalID: 3739972290540272591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_161
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 513
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d56318bf6603a30800000000000000
+      internalID: 4192964483472579876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_162
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 513
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b810b5a40340590800000000000000
+      internalID: -7708983566238905587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 513
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b6740fda2b0c50800000000000000
+      internalID: 6632442013574149564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_164
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 513
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4750da76495d0e80800000000000000
+      internalID: -8210808386383489203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_165
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 513
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d689fa12cdaef700800000000000000
+      internalID: 576088851537823443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_166
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 398
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d5a458220f62ed0800000000000000
+      internalID: -2438998117118747347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_167
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 398
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bb2ee2266f2ddc0800000000000000
+      internalID: -3615556649271248065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_168
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 400
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca00ca1c501e2a0800000000000000
+      internalID: -6710075640432776182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_169
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 400
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4fd7b4b5dd59580800000000000000
+      internalID: -8820900910956940059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_170
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 351
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fa805987e76f910800000000000000
+      internalID: 1870821751580569434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_171
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 349
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d369180c4344d0800000000000000
+      internalID: -3151591716559793412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_172
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 354
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8716533cdc1344c70800000000000000
+      internalID: 8954336718932500856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_173
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 347
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae76e57c19a2f70800000000000000
+      internalID: 9163296677307083415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_174
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 351
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a3d235e68642a0800000000000000
+      internalID: -6753562272237115221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_175
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 346
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c67176ae07a050800000000000000
+      internalID: 5811629952175884590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_176
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 351
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59e24f56c68cf50800000000000000
+      internalID: 6901885614089475492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_177
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 345
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7741ca77ea03a00800000000000000
+      internalID: 734278568272754651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_178
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 277
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca2df14b4d62c940800000000000000
+      internalID: 5314930680247691972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_179
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 334
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e69b2d0621b4690800000000000000
+      internalID: -7616974137705533881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_180
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f341d3fd7090540800000000000000
+      internalID: 4974515918791262089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 299
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45649d0de66e358a0800000000000000
+      internalID: -6317452488645982636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_182
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 288
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd994fe5de95c590800000000000000
+      internalID: -7654537349966488068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_183
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 284
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9709ee003f742c0800000000000000
+      internalID: -4447318921677080089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574947c7854221380800000000000000
+      internalID: -9002092742696463243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_185
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d7b2efa99836f0800000000000000
+      internalID: -704644360981458254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_186
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 323
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea51ee5a4faeef380800000000000000
+      internalID: -8935446274179721810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_187
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90780c91c94966530800000000000000
+      internalID: 3847926329802524425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_188
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 306
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff2fab0e242940d0800000000000000
+      internalID: -3438177060337537026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_189
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 301
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f81e5bc708458160800000000000000
+      internalID: 7027101991895439602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_190
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 317
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6f558c924d4760800000000000000
+      internalID: 7443678999133253554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_191
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 311
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527684d504640e20800000000000000
+      internalID: 3315885201854722640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_192
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2fe8426ba099c10800000000000000
+      internalID: 2060690081912386217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_193
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 298
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f375124edf5f5330800000000000000
+      internalID: 3701782826917917687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_194
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 288
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7b41bda99078960800000000000000
+      internalID: 7604057056543553443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_195
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 288
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e02984f6617960800000000000000
+      internalID: 7597967246809424233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_196
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 279
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60edae049972ce1a0800000000000000
+      internalID: -6778999799926825466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_197
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 277
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65afaca96c859fe90800000000000000
+      internalID: -6991459336492221866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_198
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 207
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced3430ee561cde70800000000000000
+      internalID: 9141205940399521260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_199
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655f97e42765bfc0800000000000000
+      internalID: -3479761728871377561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_200
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a02b1d5546d7d330800000000000000
+      internalID: 3735690009330262180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_201
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 226
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42f7036f1463b050800000000000000
+      internalID: 5815101629833671247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_202
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 224
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513665beff5b742a0800000000000000
+      internalID: -6753229005449174251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_203
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 161
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7412e1b12d34e1a00800000000000000
+      internalID: 729094759357751623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8804a946d0d4add0800000000000000
+      internalID: -2475624276369864565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_205
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 154
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f03e628eb4e2020800000000000000
+      internalID: 2318874318599294733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_206
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 206
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2139d93d6d19c4b0800000000000000
+      internalID: -5419768321604505301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_207
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965974a56d3e47fe0800000000000000
+      internalID: -1192077491569191575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_208
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599b9f935ee17f80800000000000000
+      internalID: -8110439410990081704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_209
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 166
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f2e4dffdda07e0800000000000000
+      internalID: -1798381010323049763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_210
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 192
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbda7a359c1d56ba0800000000000000
+      internalID: -6096235857953968709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_211
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 197
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdcaae9ccaaa6b60800000000000000
+      internalID: 7740186705401662913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_212
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 197
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69ca40905397db0800000000000000
+      internalID: -4793742015509784842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_213
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 178
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59467870664b81d0800000000000000
+      internalID: -3347504517868009121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_214
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 175
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61028139bc4c661f0800000000000000
+      internalID: -1051937084319195114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_215
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 190
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658aee078ef196120800000000000000
+      internalID: 2407490558993803350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_216
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 183
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72bb22442aa7ca0800000000000000
+      internalID: -6018319538503079983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_217
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849f0725921ec210800000000000000
+      internalID: 1355040969699857540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_218
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 171
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf64dccf489ff320800000000000000
+      internalID: 2593959378895007683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_219
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 161
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72786141a7f8f18c0800000000000000
+      internalID: -4026341787360131289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_220
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 161
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381fe097eb718cd0800000000000000
+      internalID: -2557626878870480836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_221
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 152
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca79dd6098beb90800000000000000
+      internalID: -7211519715723203438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_222
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 149
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b334ff6be09fa0800000000000000
+      internalID: -5795873854354902353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_223
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d00fd519791b3b0800000000000000
+      internalID: -5498447019440599745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_224
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 88
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b7125d9ba06570800000000000000
+      internalID: 8457948792377292989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_225
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 78
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee36db139b0ab90800000000000000
+      internalID: -7232577378275037539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_226
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 91
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef9b0dde757ff0a0800000000000000
+      internalID: -6845623720845008923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 78
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ff8f4ac20c2360800000000000000
+      internalID: 7146089776671618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_228
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 88
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232dc97d8224f6b0800000000000000
+      internalID: -5263544073460047059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_229
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58866c39ba5c31d40800000000000000
+      internalID: 5554000106187286661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redMRK2-2_230
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca527f2428766e50800000000000000
+      internalID: 6802256383999892170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

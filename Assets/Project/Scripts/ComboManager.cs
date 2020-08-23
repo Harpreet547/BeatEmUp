@@ -8,6 +8,9 @@ public class ComboManager : MonoBehaviour
     public bool canReceiveInput;
     public bool inputReceived;
 
+    private string[] lightAttackArr = new string[] { "LightAttack1L1", "LightAttack2L2", "LightAttack3L3" };
+    private int comboNum;
+
     private void Awake()
     {
         instance = this;
@@ -16,24 +19,12 @@ public class ComboManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        canReceiveInput = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("LightAttack"))
-        {
-            if (canReceiveInput)
-            {
-                inputReceived = true;
-                canReceiveInput = false;
-            }
-            else
-            {
-                return;
-            }
-        }
+        attack();
     }
 
     public void attack()
@@ -53,12 +44,33 @@ public class ComboManager : MonoBehaviour
 
     public void inputManager()
     {
-        if(!canReceiveInput)
+        canReceiveInput = !canReceiveInput;
+    }
+
+    public string getAttackName()
+    {
+        string attackName = null;
+        if (ComboManager.instance.inputReceived)
         {
-            canReceiveInput = true;
-        } else
-        {
-            canReceiveInput = false;
+            ComboManager.instance.inputManager();
+            ComboManager.instance.inputReceived = false;
+            attackName = lightAttackArr[comboNum];
+            comboNum++;
         }
+        if(comboNum == 3)
+        {
+            comboNum = 0;
+        }
+        return attackName;
+    }
+
+    public void resetCombo()
+    {
+        comboNum = 0;
+    }
+
+    public string getIdleStateName()
+    {
+        return "RedIdle";
     }
 }

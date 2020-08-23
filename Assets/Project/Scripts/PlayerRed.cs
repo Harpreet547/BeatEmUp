@@ -12,6 +12,11 @@ public class PlayerRed : MonoBehaviour
     public float maxY;
     public float minY;
 
+    public float dodgeStrength;
+    public float dodgeCooldown;
+    public float dodgeDuration;
+    private bool isDodging;
+
     private Rigidbody2D playerRigidbody;
     private Animator animator;
 
@@ -28,26 +33,33 @@ public class PlayerRed : MonoBehaviour
     void Update()
     {
         move();
+        dodge();
+    }
+
+    private void FixedUpdate()
+    {
     }
 
     private void move()
     {
         float horizontalAxis = Input.GetAxis("Horizontal");
         float verticalAxis = Input.GetAxis("Vertical");
-
-        playerRigidbody.velocity = new Vector2(
+        if (!isDodging)
+        {
+            playerRigidbody.velocity = new Vector2(
                 horizontalAxis * horizontalSpeed,
                 verticalAxis * verticalSpeed
             );
 
-        if(playerRigidbody.velocity.x > 0)
-        {
-            isFacingRight = true;
-        } else if(playerRigidbody.velocity.x < 0)
-        {
-            isFacingRight = false;
+            if (playerRigidbody.velocity.x > 0)
+            {
+                isFacingRight = true;
+            }
+            else if (playerRigidbody.velocity.x < 0)
+            {
+                isFacingRight = false;
+            }
         }
-
         animator.SetBool("isWalking", playerRigidbody.velocity != Vector2.zero);
 
         container.transform.localScale = new Vector3(isFacingRight ? transform.localScale.x : -transform.localScale.x, transform.localScale.y, transform.localScale.z);
@@ -58,6 +70,48 @@ public class PlayerRed : MonoBehaviour
         } else if(transform.position.y < minY)
         {
             transform.position = new Vector3(transform.position.x, minY, transform.position.z);
+        }
+    }
+
+    private void dodge()
+    {
+        if(Input.GetButtonDown("Dodge"))
+        {
+            StartCoroutine(dodgeRoutine());
+        }
+    }
+
+    IEnumerator dodgeRoutine()
+    {
+        if(!isDodging)
+        {
+            isDodging = true;
+
+            float horizontalAxis = Input.GetAxis("Horizontal");
+            float verticalAxis = Input.GetAxis("Vertical");
+
+            if (horizontalAxis != 0 || verticalAxis != 0)
+            {
+                playerRigidbody.velocity = new Vector2(
+                        horizontalAxis * dodgeStrength,
+                        verticalAxis * dodgeStrength
+                    );
+            }
+            else if (horizontalAxis == 0 && verticalAxis == 0)
+            {
+                playerRigidbody.velocity = new Vector2(
+                        (isFacingRight ? -1 : 1) * dodgeStrength,
+                        0
+                    );
+            }
+
+            yield return new WaitForSeconds(dodgeDuration);
+
+            playerRigidbody.velocity = Vector2.zero;
+
+            yield return new WaitForSeconds(dodgeCooldown);
+
+            isDodging = false;
         }
     }
 }

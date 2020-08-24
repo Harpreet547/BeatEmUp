@@ -36,7 +36,6 @@ public class ComboManager : MonoBehaviour
     {
         if(Input.GetButtonDown("LightAttack"))
         {
-            Debug.Log("Combo INput");
             if (canReceiveInput)
             {
                 inputReceived = true;

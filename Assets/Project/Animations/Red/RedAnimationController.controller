@@ -13,6 +13,7 @@ AnimatorState:
   m_Transitions:
   - {fileID: 2912078495470947462}
   - {fileID: 4395035059401152585}
+  - {fileID: -2396607807514532551}
   m_StateMachineBehaviours:
   - {fileID: -796584245789466843}
   m_Position: {x: 50, y: 50, z: 0}
@@ -126,6 +127,7 @@ AnimatorState:
   m_Transitions:
   - {fileID: -8452855944012918723}
   - {fileID: 3405166234205067000}
+  - {fileID: -7254008558771376156}
   m_StateMachineBehaviours:
   - {fileID: 5116043631250338503}
   m_Position: {x: 50, y: 50, z: 0}
@@ -155,6 +157,7 @@ AnimatorState:
   m_Transitions:
   - {fileID: -4879483277339687002}
   - {fileID: -6818416757353780719}
+  - {fileID: -5024979668269519890}
   m_StateMachineBehaviours:
   - {fileID: -8768510591860946198}
   m_Position: {x: 50, y: 50, z: 0}
@@ -181,6 +184,45 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0f0be51aa387241baa650135076b7734, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeedPercentDuringAttack: 0
+  isDashEnabled: 1
+--- !u!1101 &-7254008558771376156
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: LightAttack2L2
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -6845335225459708733}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0.75
+  m_HasExitTime: 0
+  m_HasFixedDuration: 0
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
+--- !u!114 &-6879274192622667186
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa183cf7fac14416824ec8153c09e56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1102 &-6845335225459708733
@@ -267,6 +309,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f0be51aa387241baa650135076b7734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeedPercentDuringAttack: 0.6
+  isDashEnabled: 0
+--- !u!1101 &-5024979668269519890
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: LightAttack3L3
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 5024044646035393942}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0.75
+  m_HasExitTime: 0
+  m_HasFixedDuration: 0
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!1102 &-4969087924463425480
 AnimatorState:
   serializedVersion: 5
@@ -332,6 +401,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f0be51aa387241baa650135076b7734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeedPercentDuringAttack: 0.3
+  isDashEnabled: 0
 --- !u!1101 &-4434584230035644548
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -367,6 +438,7 @@ AnimatorState:
   m_Transitions:
   - {fileID: 124672695533995839}
   - {fileID: 4032330027672570383}
+  - {fileID: 8810595298731641504}
   m_StateMachineBehaviours:
   - {fileID: 7852440440887990104}
   m_Position: {x: 50, y: 50, z: 0}
@@ -383,6 +455,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1101 &-2396607807514532551
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: HeavyAttack3L3
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 927614634079004504}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0.75
+  m_HasExitTime: 0
+  m_HasFixedDuration: 0
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!114 &-2213243417203547932
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -524,49 +621,49 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: LightAttack1L1
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: LightAttack2L2
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: LightAttack3L3
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Reset
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: HeavyAttack1L1
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: HeavyAttack2L2
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: HeavyAttack3L3
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -846,6 +943,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f0be51aa387241baa650135076b7734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeedPercentDuringAttack: 0.3
+  isDashEnabled: 0
 --- !u!1101 &4991283394941478948
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -932,7 +1031,7 @@ AnimatorStateTransition:
   m_TransitionOffset: 0
   m_ExitTime: 0.75409836
   m_HasExitTime: 0
-  m_HasFixedDuration: 0
+  m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
@@ -984,7 +1083,8 @@ AnimatorState:
   - {fileID: -8734498240002035524}
   - {fileID: 6437353705310252120}
   - {fileID: 8344010616325804744}
-  m_StateMachineBehaviours: []
+  m_StateMachineBehaviours:
+  - {fileID: -6879274192622667186}
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -1011,6 +1111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f0be51aa387241baa650135076b7734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeedPercentDuringAttack: 0.604
+  isDashEnabled: 0
 --- !u!114 &7852440440887990104
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1044,7 +1146,7 @@ AnimatorStateTransition:
   m_TransitionOffset: 0
   m_ExitTime: 0.75409836
   m_HasExitTime: 0
-  m_HasFixedDuration: 0
+  m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
@@ -1082,3 +1184,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f0be51aa387241baa650135076b7734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeedPercentDuringAttack: 0.6
+  isDashEnabled: 0
+--- !u!1101 &8810595298731641504
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: HeavyAttack2L2
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -1796097977565039863}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0.75
+  m_HasExitTime: 0
+  m_HasFixedDuration: 0
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1

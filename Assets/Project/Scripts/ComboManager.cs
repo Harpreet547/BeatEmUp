@@ -12,6 +12,7 @@ public class ComboManager : MonoBehaviour
     private PlayerRed player;
 
     private int comboNum;
+    private int activeComboNum;
     private int lastAttackType;
 
     private void Awake()
@@ -75,6 +76,7 @@ public class ComboManager : MonoBehaviour
             ComboManager.instance.inputManager();
             ComboManager.instance.inputReceived = false;
             attackName = playerComboSettings.getAttack(comboNum, lastAttackType);
+            activeComboNum = comboNum;
             comboNum++;
         }
         if(comboNum == 3)
@@ -96,7 +98,14 @@ public class ComboManager : MonoBehaviour
 
     public void setCanDamageEnemy(bool canDamage)
     {
+        
         playerComboSettings.canDamage = canDamage;
+    }
+
+    public void setActiveAttack(bool isActive)
+    {
+        string attackName = playerComboSettings.getAttack(activeComboNum, lastAttackType);
+        playerComboSettings.setActiveAttack(isActive, attackName);
     }
 
     public void setMovementSpeedPercentDuringAttack(float speedPercent)

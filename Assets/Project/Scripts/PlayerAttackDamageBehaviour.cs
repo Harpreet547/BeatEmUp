@@ -12,6 +12,9 @@ public class PlayerAttackDamageBehaviour : StateMachineBehaviour
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         ComboManager.instance.setCanDamageEnemy(true);
+
+        ComboManager.instance.setActiveAttack(true);
+
         ComboManager.instance.setMovementSpeedPercentDuringAttack(movementSpeedPercentDuringAttack);
         ComboManager.instance.setIfDodgeIsEnabled(isDashEnabled);
     }

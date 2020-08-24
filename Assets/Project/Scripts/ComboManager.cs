@@ -11,6 +11,7 @@ public class ComboManager : MonoBehaviour
     private PlayerComboSettings playerComboSettings;
 
     private int comboNum;
+    private int lastAttackType;
 
     private void Awake()
     {
@@ -37,7 +38,22 @@ public class ComboManager : MonoBehaviour
             {
                 inputReceived = true;
                 canReceiveInput = false;
+                lastAttackType = 1;
             } else
+            {
+                return;
+            }
+        }
+
+        if(Input.GetButtonDown("HeavyAttack"))
+        {
+            if (canReceiveInput)
+            {
+                inputReceived = true;
+                canReceiveInput = false;
+                lastAttackType = 2;
+            }
+            else
             {
                 return;
             }
@@ -56,7 +72,7 @@ public class ComboManager : MonoBehaviour
         {
             ComboManager.instance.inputManager();
             ComboManager.instance.inputReceived = false;
-            attackName = playerComboSettings.lightAttackArr[comboNum];
+            attackName = playerComboSettings.getAttack(comboNum, lastAttackType);
             comboNum++;
         }
         if(comboNum == 3)

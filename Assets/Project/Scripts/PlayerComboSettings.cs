@@ -4,6 +4,7 @@ using System.Collections;
 public class PlayerComboSettings : MonoBehaviour
 {
     public string[] lightAttackArr = new string[] { "LightAttack1L1", "LightAttack2L2", "LightAttack3L3" };
+    public string[] heavyAttackArr = new string[] { "HeavyAttack1L1", "HeavyAttack2L2", "HeavyAttack3L3" };
     public string idleStateName = "RedIdle";
     public LayerMask whatIsEnemy;
 
@@ -12,10 +13,10 @@ public class PlayerComboSettings : MonoBehaviour
     public float lightAttackRange1Y;
 
     public bool canDamage;
+
     // Use this for initialization
     void Start()
     {
-        //ComboManager.instance.setPlayerComboSettings(lightAttackArr, idleStateName);
     }
 
     // Update is called once per frame
@@ -34,6 +35,17 @@ public class PlayerComboSettings : MonoBehaviour
                 Debug.Log(enemy.gameObject.name);
             }
             canDamage = false;
+        }
+    }
+
+    public string getAttack(int comboNum, int lastAttackType)
+    {
+        if(lastAttackType == 1)
+        {
+            return lightAttackArr[comboNum];
+        } else
+        {
+            return heavyAttackArr[comboNum];
         }
     }
 

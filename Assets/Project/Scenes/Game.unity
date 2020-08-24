@@ -208,7 +208,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!114 &279461161
 MonoBehaviour:
@@ -227,7 +227,9 @@ MonoBehaviour:
   horizontalSpeed: 4
   maxY: -0.74
   minY: -4.47
-  dodgeStrength: 4000
+  dodgeStrength: 15
+  dodgeCooldown: 0.4
+  dodgeDuration: 0.15
 --- !u!95 &279461162
 Animator:
   serializedVersion: 3

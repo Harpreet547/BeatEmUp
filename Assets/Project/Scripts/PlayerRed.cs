@@ -17,6 +17,7 @@ public class PlayerRed : MonoBehaviour
     public float dodgeCooldown;
     public float dodgeDuration;
     private bool isDodging;
+    private bool isDodgeEnabled;
 
     private Rigidbody2D playerRigidbody;
     private Animator animator;
@@ -29,6 +30,7 @@ public class PlayerRed : MonoBehaviour
         animator = gameObject.GetComponent<Animator>();
         isFacingRight = true;
         movementSpeedPercent = 1.0f;
+        isDodgeEnabled = true;
     }
 
     // Update is called once per frame
@@ -79,9 +81,15 @@ public class PlayerRed : MonoBehaviour
     {
         movementSpeedPercent = speedPercent;
     }
+
+    public void setIsDodgeEnabled(bool isDodgeEnabled)
+    {
+        this.isDodgeEnabled = isDodgeEnabled;
+    }
+
     private void dodge()
     {
-        if(Input.GetButtonDown("Dodge"))
+        if(Input.GetButtonDown("Dodge") && isDodgeEnabled)
         {
             StartCoroutine(dodgeRoutine());
         }

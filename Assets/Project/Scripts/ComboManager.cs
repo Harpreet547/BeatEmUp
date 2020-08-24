@@ -103,4 +103,9 @@ public class ComboManager : MonoBehaviour
     {
         player.setMovementSpeedPercent(speedPercent);
     }
+
+    public void setIfDodgeIsEnabled(bool isDodgeEnabled)
+    {
+        player.setIsDodgeEnabled(isDodgeEnabled);
+    }
 }

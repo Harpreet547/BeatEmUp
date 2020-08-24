@@ -9,6 +9,7 @@ public class ComboManager : MonoBehaviour
     public bool inputReceived;
 
     private PlayerComboSettings playerComboSettings;
+    private PlayerRed player;
 
     private int comboNum;
     private int lastAttackType;
@@ -22,6 +23,7 @@ public class ComboManager : MonoBehaviour
     void Start()
     {
         playerComboSettings = gameObject.GetComponent<PlayerComboSettings>();
+        player = gameObject.GetComponent<PlayerRed>();
     }
 
     // Update is called once per frame
@@ -34,7 +36,7 @@ public class ComboManager : MonoBehaviour
     {
         if(Input.GetButtonDown("LightAttack"))
         {
-            if(canReceiveInput)
+            if (canReceiveInput)
             {
                 inputReceived = true;
                 canReceiveInput = false;
@@ -95,5 +97,10 @@ public class ComboManager : MonoBehaviour
     public void setCanDamageEnemy(bool canDamage)
     {
         playerComboSettings.canDamage = canDamage;
+    }
+
+    public void setMovementSpeedPercentDuringAttack(float speedPercent)
+    {
+        player.setMovementSpeedPercent(speedPercent);
     }
 }

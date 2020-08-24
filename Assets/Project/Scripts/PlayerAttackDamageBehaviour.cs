@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class PlayerAttackDamageBehaviour : StateMachineBehaviour
 {
+    [Range(0.0f, 1.0f)]
+    public float movementSpeedPercentDuringAttack;
+
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         ComboManager.instance.setCanDamageEnemy(true);
+        ComboManager.instance.setMovementSpeedPercentDuringAttack(movementSpeedPercentDuringAttack);
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -20,6 +24,7 @@ public class PlayerAttackDamageBehaviour : StateMachineBehaviour
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         ComboManager.instance.setCanDamageEnemy(false);
+        ComboManager.instance.setMovementSpeedPercentDuringAttack(1.0f);
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

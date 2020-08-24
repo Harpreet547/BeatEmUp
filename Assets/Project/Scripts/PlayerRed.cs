@@ -8,6 +8,7 @@ public class PlayerRed : MonoBehaviour
     
     public float verticalSpeed;
     public float horizontalSpeed;
+    private float movementSpeedPercent;
 
     public float maxY;
     public float minY;
@@ -27,6 +28,7 @@ public class PlayerRed : MonoBehaviour
         playerRigidbody = gameObject.GetComponent<Rigidbody2D>();
         animator = gameObject.GetComponent<Animator>();
         isFacingRight = true;
+        movementSpeedPercent = 1.0f;
     }
 
     // Update is called once per frame
@@ -47,8 +49,8 @@ public class PlayerRed : MonoBehaviour
         if (!isDodging)
         {
             playerRigidbody.velocity = new Vector2(
-                horizontalAxis * horizontalSpeed,
-                verticalAxis * verticalSpeed
+                horizontalAxis * horizontalSpeed * movementSpeedPercent,
+                verticalAxis * verticalSpeed * movementSpeedPercent
             );
 
             if (playerRigidbody.velocity.x > 0)
@@ -73,6 +75,10 @@ public class PlayerRed : MonoBehaviour
         }
     }
 
+    public void setMovementSpeedPercent(float speedPercent)
+    {
+        movementSpeedPercent = speedPercent;
+    }
     private void dodge()
     {
         if(Input.GetButtonDown("Dodge"))
